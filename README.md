@@ -73,19 +73,19 @@ python iris_decision_tree.py
 <p>
   <b>Decision Tree Visualization:</b><br/>
   <img <img width="794" height="482" alt="image" src="https://github.com/user-attachments/assets/0be16cc5-2a40-4b13-8bb4-93f403343d04" />
- width="500"/>
+ <width="500"/>
 </p>
 
 <p>
   <b>Decision Boundaries:</b><br/>
   <img <img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/d2d5ea2f-2d2f-4613-9d7e-9739a28aee96" />
- width="500"/>
+ <width="500"/>
 </p>
 
 <p>
   <b>Confusion Matrix:</b><br/>
   <img <img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/8c336f63-265c-4c83-a321-932ac0f70641" />
- width="400"/>
+ <width="400"/>
 </p>
 
 <hr/>

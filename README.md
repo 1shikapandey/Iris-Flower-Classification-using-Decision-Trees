@@ -1,6 +1,6 @@
-<h1 align="center">🌸 Iris Flower Classification using Decision Trees</h1>
+<h1>🌸 Iris Flower Classification using Decision Trees</h1>
 
-<p align="center">
+<p>
   A machine learning project that applies <b>Decision Tree Classification</b> on the classic Iris dataset. 
   The model classifies iris flowers based on petal features and includes decision tree visualization, 
   decision boundaries, evaluation metrics, and cross-validation analysis.
@@ -87,11 +87,5 @@ python iris_decision_tree.py
 
 <hr/>
 
-<h2>🤝 Contributing</h2>
-<p>Feel free to fork this repo, raise issues, or submit pull requests to improve the project.</p>
 
-<hr/>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the <b>MIT License</b>.</p>
 .

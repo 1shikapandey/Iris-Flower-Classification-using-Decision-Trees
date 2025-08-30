@@ -72,7 +72,7 @@ python iris_decision_tree.py
 <h2>📷 Sample Outputs</h2>
 <BR>
 <p>
-  <b>Decision Tree Visualization:</b><br/>
+  <b>1. Decision Tree Visualization:</b><br/>
   <BR>
   <img <img width="794" height="482" alt="image" src="https://github.com/user-attachments/assets/0be16cc5-2a40-4b13-8bb4-93f403343d04" />
  <width="500"/>

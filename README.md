@@ -79,7 +79,7 @@ python iris_decision_tree.py
 </p>
 
 <p>
-  <b>2.Decision Boundaries:</b><br/>
+  <b>2. Decision Boundaries:</b><br/>
   <BR>
   <img <img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/d2d5ea2f-2d2f-4613-9d7e-9739a28aee96" />
  <width="500"/>

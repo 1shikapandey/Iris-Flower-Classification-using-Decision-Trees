@@ -86,7 +86,7 @@ python iris_decision_tree.py
 </p>
 
 <p>
-  <b>Confusion Matrix:</b><br/>
+  <b>3. Confusion Matrix:</b><br/>
   <BR>
   <img <img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/8c336f63-265c-4c83-a321-932ac0f70641" />
  <width="400"/>

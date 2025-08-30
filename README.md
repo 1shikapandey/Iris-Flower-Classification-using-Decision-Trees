@@ -1,4 +1,4 @@
-<h1>🌸 Iris Flower Classification using Decision Trees</h1>
+<h1>Iris Flower Classification using Decision Trees</h1>
 
 <p>
   A machine learning project that applies <b>Decision Tree Classification</b> on the classic Iris dataset. 

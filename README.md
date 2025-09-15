@@ -69,7 +69,7 @@ python iris_decision_tree.py
 
 <hr/>
 
-<h2>📷 Sample Outputs</h2>
+<h2>Sample Outputs</h2>
 <BR>
 <p>
   <b>1. Decision Tree Visualization:</b><br/>

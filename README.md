@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h2>📊 Project Overview</h2>
+<h2>Project Overview</h2>
 <ul>
   <li>Dataset: <code>sklearn.datasets.load_iris()</code></li>
   <li>Features used: Petal length & Petal width</li>

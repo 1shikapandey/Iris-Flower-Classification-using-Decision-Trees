@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 <hr/>
 
-<h2>🚀 How to Run</h2>
+<h2>How to Run</h2>
 <pre>
 python iris_decision_tree.py
 </pre>

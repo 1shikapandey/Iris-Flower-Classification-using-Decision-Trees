@@ -59,7 +59,7 @@ python iris_decision_tree.py
 
 <hr/>
 
-<h2>📈 Results</h2>
+<h2>Results</h2>
 <ul>
   <li>Decision Tree visualized using <code>plot_tree</code>.</li>
   <li>Decision boundaries show class separability in feature space.</li>

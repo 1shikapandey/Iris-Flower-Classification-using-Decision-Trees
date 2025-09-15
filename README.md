@@ -31,7 +31,7 @@
 
 <hr/>
 
-<h2>⚙️ Installation & Setup</h2>
+<h2>Installation & Setup</h2>
 <pre>
 # Clone this repository
 git clone https://github.com/your-username/iris-decision-tree.git

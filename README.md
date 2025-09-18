@@ -1,7 +1,9 @@
 <h1>Iris Flower Classification using Decision Trees</h1>
 
 <p>
-
+  A machine learning project that applies <b>Decision Tree Classification</b> on the classic Iris dataset. 
+  The model classifies iris flowers based on petal features and includes decision tree visualization, 
+  decision boundaries, evaluation metrics, and cross-validation analysis.
 </p>
 
 <hr/>
